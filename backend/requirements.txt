@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+# psycopg2-binary # Optional for now, since we default to sqlite
