@@ -131,16 +131,16 @@ Firmware-Fleet-Manager/
 ## 🎨 Screenshots
 
 ### Dashboard
-![Dashboard Overview](https://github.com/pradyumnakr/Firmware-Fleet-Manager/raw/main/docs/dashboard.png)
+![Dashboard Overview](./docs/screenshots/dashboard.png)
 
 ### Fleet Inventory
-![Device Fleet](https://github.com/pradyumnakombethotaramgopal/.gemini/antigravity/brain/a51587e2-0315-4e0b-bf8d-94d2ac0e7646/fleet_inventory_1768161611932.png)
+![Device Fleet](./docs/screenshots/fleet.png)
 
 ### Firmware Management
-![Firmware Vault](https://github.com/pradyumnakombethotaramgopal/.gemini/antigravity/brain/a51587e2-0315-4e0b-bf8d-94d2ac0e7646/firmware_management_1768161624864.png)
+![Firmware Vault](./docs/screenshots/firmware.png)
 
 ### Deployment Console
-![Deployment Rollout](https://github.com/pradyumnakombethotaramgopal/.gemini/antigravity/brain/a51587e2-0315-4e0b-bf8d-94d2ac0e7646/deployment_rollout_1768161638681.png)
+![Deployment Rollout](./docs/screenshots/deployment.png)
 
 ## 🔧 Configuration
 
