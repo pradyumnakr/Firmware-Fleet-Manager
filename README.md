@@ -4,7 +4,7 @@
 
 A premium firmware fleet management platform for orchestrating OTA updates across device groups with canary deployment support. Built with React, FastAPI, and PostgreSQL—featuring real-time telemetry, rollout monitoring, and a high-end "LumaOS" interface.
 
-![Dashboard](https://github.com/pradyumnakr/Firmware-Fleet-Manager/raw/main/docs/dashboard.png)
+![Dashboard](./docs/screenshots/dashboard.png)
 
 ## ✨ Features
 
@@ -219,8 +219,6 @@ This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
-- Inspired by modern DevOps practices
-- UI design influenced by Linear and Vercel
 - Built for Tesla Low Voltage Software Team workflows
 
 ---
